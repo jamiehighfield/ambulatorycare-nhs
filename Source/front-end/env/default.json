@@ -1,0 +1,6 @@
+{
+    "DevelopmentCurrentEnvironment": {
+        "ApiHost": "192.168.1.240",
+        "ApiHostPort": "8080"
+    }
+}

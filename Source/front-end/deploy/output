@@ -1,0 +1,36 @@
+[21:34:48] Checking if there is build in progress...
+
+[21:34:50] Unable to find an existing Expo CLI instance for this directory, starting a new one...
+[21:34:54] Starting Metro Bundler on port 19001.
+[21:34:56] Tunnel ready.
+[21:34:56] Publishing to channel 'default'...
+[21:34:59] Building iOS bundle
+[21:35:02] Finished building JavaScript bundle in 2621ms.
+[21:35:02] Building Android bundle
+[21:35:04] Finished building JavaScript bundle in 1716ms.
+[21:35:04] Analyzing assets
+[21:35:05] Finished building JavaScript bundle in 1049ms.
+[21:35:06] Finished building JavaScript bundle in 929ms.
+[21:35:06] Uploading assets
+[21:35:08] No assets changed, skipped.
+[21:35:08] Processing asset bundle patterns:
+[21:35:08] - /Users/jamiehighfield/Desktop/Large Team Project/team-43-project-front/**/*
+[21:35:08] Uploading JavaScript bundles
+[21:35:59] Published
+[21:35:59] Your URL is
+
+https://exp.host/@nsaproject/ambulatorycare
+
+[21:35:59] Checking if this build already exists...
+
+[21:36:00] Building...
+[21:36:01] Build started, it may take a few minutes to complete.
+[21:36:01] You can check the queue length at
+ https://expo.io/turtle-status
+
+[21:36:01] You can monitor the build at
+
+ https://expo.io/builds/1e6754d3-cb6b-4317-bcc9-ede5a7dbbfb6
+
+[21:36:01] Waiting for build to complete. You can press Ctrl+C to exit.
+[21:40:12] Successfully built standalone app: https://expo.io/artifacts/1a6c4e46-7dcc-46c4-97cf-bc76619ab45c
