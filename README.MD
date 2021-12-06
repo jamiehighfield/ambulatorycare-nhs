@@ -1,6 +1,6 @@
-# Ambulatory Care - Back
+# Ambulatory Care
 
-This Git respository is for holding front-end (mobile application) of the project.
+This was a University industry project in a team of 5 working for the NHS to create a mobile application to aid cancer patients administering chemotherapy treatment from their home. It allowed for remote monitoring by doctors and other interactions.
 
 ## Architecture
 
