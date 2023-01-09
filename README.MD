@@ -1,3 +1,5 @@
+This is a copy of the code only - it was originally developed with other developers using a different SCCS.
+
 # Ambulatory Care
 
 This was a University industry project in a team of 5 working for the NHS to create a mobile application to aid cancer patients administering chemotherapy treatment from their home. It allowed for remote monitoring by doctors and other interactions.
